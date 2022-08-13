@@ -1,0 +1,6 @@
+{
+    "userInteractionError": "L'intéraction avec ce menu vous est prohibé.",
+    "internalError": "Une erreur interne est survenue: \n Invalid",
+    "error": "Une erreur s'est produite:",
+    "saveError": "Une erreur s'est produite lors de la sauvegarde"
+}
