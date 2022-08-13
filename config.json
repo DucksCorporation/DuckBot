@@ -1,6 +1,6 @@
 {
     "prefix": "p!",
-    "token": "OTIyMTMwMjc4NDQzNTI4MjMy.Gqj_RQ.KLpCxjmg6jQQbQXO2RxVNr8jL-z_j9E1GCFZM4",
-    "dbURI": "mongodb+srv://Picsou:Papa67899@botdb.rtqcs.mongodb.net/?retryWrites=true&w=majority",
+    "token": "token",
+    "dbURI": "mongodbConnection",
     "masterLogsChannel": "925744986820055090"
 }
